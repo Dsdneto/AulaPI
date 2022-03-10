@@ -6,3 +6,7 @@ body {
 header{
     background-color: aqua;
 }
+
+p{
+    font-size: 28px;
+}
